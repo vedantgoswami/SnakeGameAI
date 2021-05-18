@@ -10,3 +10,4 @@ In Reinforcement Learning, we have two main components: the <b>environment</b> (
 <p align="center">
 <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/RA_model.png" height="380px" width="480px">
   </p>
+Deep Reinforcement Learning (DRL) combines the above ideas of RL with deep neural networks. The neural network learns the “Q function”, which takes as input the current environment state and outputs a vector containing expected rewards for each possible action. The agent can then pick the action that maximizes the Q function. Based on this action, the game then updates the environment to a new state and assigns a reward (e.g. +10 for eating an apple, -10 for hitting a wall). At the beginning of training, the Q function is just approximated by a randomly initialized neural network. 
