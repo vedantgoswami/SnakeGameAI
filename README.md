@@ -11,3 +11,11 @@ In Reinforcement Learning, we have two main components: the <b>environment</b> (
 <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/RA_model.png" height="380px" width="480px">
   </p>
 Deep Reinforcement Learning (DRL) combines the above ideas of RL with deep neural networks. The neural network learns the “Q function”, which takes as input the current environment state and outputs a vector containing expected rewards for each possible action. The agent can then pick the action that maximizes the Q function. Based on this action, the game then updates the environment to a new state and assigns a reward (e.g. +10 for eating an apple, -10 for hitting a wall). At the beginning of training, the Q function is just approximated by a randomly initialized neural network. 
+
+I will explain the implementation of this SnakeAI step by step.<br>
+A simple snake board game which is user controlled is designed using pygame module is here https://github.com/vedantgoswami/SnakeGameAI/blob/main/snake_game.py 
+
+### Algorithm
+We have snake and food on the board randomly placed.
+* calculate the state of the snake using the 11 values 
+  <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/State.svg">
