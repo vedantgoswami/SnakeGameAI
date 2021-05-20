@@ -19,3 +19,11 @@ A simple snake board game which is user controlled is designed using pygame modu
 We have snake and food on the board randomly placed.
 * calculate the state of the snake using the 11 values 
   <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/State.svg">
+* Now this current state is passed to the RL Model for the next state.
+  <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Model.svg">
+* After executing the next state calculate the reward. Rewards are defined as below:
+  1. Eat food  :  +10
+  2. Game Over :  -10
+  3. Else      :    0
+* Update the Q value and Train the Model.
+
