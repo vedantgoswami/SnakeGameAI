@@ -27,3 +27,14 @@ We have snake and food on the board randomly placed.
   3. Else      :    0
 * Update the Q value and Train the Model.
 
+After analysing the algorithm now we have to build the idea to proceed for coding this algorithm.<br><br>
+Our Project will be divided into three Modules named <b>Agent, Game and Model</b>
+  <p align='center'>
+    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/agentstate.PNG" width=400px height=290px>
+  </p>
+  <p>
+    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/game.png" width=420px height=250px align='left'>
+    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/model.png" width=420px height=250px align='right'>
+  </p>
+
+
