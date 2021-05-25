@@ -37,3 +37,4 @@ Our Project will be divided into three Modules named <b>Agent, Game and Model</b
     <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/model.png" width=400px height=250px align='right'>
   </p>
 
+## Result
