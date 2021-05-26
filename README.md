@@ -33,13 +33,13 @@ Our Project will be divided into three Modules named <b>Agent, Game and Model</b
     <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/agentstate.PNG" width=400px height=290px>
   </p>
   <p>
-    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/game.png" width=400px height=250px>
-    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/model.png" width=400px height=250px>
+    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/game.png" width=390px height=250px align='left'>
+    <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/model.png" width=390px height=250px align='right'>
   </p>
 
 
 <p>
   <h2>Result</h2>
-<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/new.gif" width=400px height=250px align='left'>
-<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Animation.gif" width=400px height=250px align='right'>
+<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/new.gif" width=380px height=250px align='left'>
+<img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Animation.gif" width=380px height=250px align='right'>
 </p>
