@@ -37,9 +37,11 @@ Our Project will be divided into three Modules named <b>Agent, Game and Model</b
     <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/model.png" width=390px height=250px align='right'>
   </p>
 
-
+<br><br><br><br><br><br><br><br><br><br><br><br>
 <p>
   <h2>Result</h2>
 <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/new.gif" width=380px height=250px align='left'>
 <img src="https://github.com/vedantgoswami/SnakeGameAI/blob/main/Images/Animation.gif" width=380px height=250px align='right'>
+<br><br><br><br><br><br><br><br><br><br><br>
+<pre>               Initial Epochs                                                             After 100th Epochs</pre>
 </p>
